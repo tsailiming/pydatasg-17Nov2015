@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+spark-1.5.2-bin-hadoop2.6
+spark-1.5.2-bin-hadoop2.6.tgz
+metastore_db
+*.log
+
